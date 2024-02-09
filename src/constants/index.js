@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  express,
 } from "../assets";
 
 export const navLinks = [
@@ -95,6 +96,10 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
+  },
+  {
+    name: "Express JS",
+    icon: express
   },
   {
     name: "Three JS",
